@@ -1,7 +1,8 @@
 ### Hi there 👋, I'm Alex Torres
 
-- 🔭 I’m currently working on [Konfío](https://konfio.mx/vacantes/)
+- 🔭 I’m currently working @ [Konfío](https://konfio.mx/vacantes/)
 - 🌱 I like learning about technology, finance and the environment. 
+- 📫 How to reach me: dalextor@gmail.com
 
 <!--
 **AlexTorres88/AlexTorres88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
