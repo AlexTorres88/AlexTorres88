@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm Alex Torres
 
-- 🔭 I’m currently working @ [Konfío](https://konfio.mx/vacantes/)
 - 🌱 I like learning about technology, finance and the environment. 
 - 📫 How to reach me: dalextor@gmail.com
 
@@ -9,6 +8,7 @@
 
 Here are some ideas to get you started:
 
+- 🔭 I’m currently working @ Microsoft
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
